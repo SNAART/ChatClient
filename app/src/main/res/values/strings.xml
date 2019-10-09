@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ChatClient</string>
+    <string name="user_name_register">Enter username</string>
+    <string name="password_register">Enter password</string>
+    <string name="register_button">Sign up</string>
+    <string name="log_in_button">Sign in</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="email_register">Email</string>
+    <string name="user_name_tv_txt">Username</string>
+    <string name="email_tv_txt">Email</string>
+    <string name="password_tv_txt">Password</string>
+    <string name="confirmSetPhoto">Confirm</string>
+    <string name="new_message_menu">New Chat</string>
+    <string name="_menu">Sign Out</string>
+    <string name="user_name_userlayout">Username</string>
+    <string name="buttonSendChatlog">SEND</string>
+    <string name="enter_your_message_here">Enter your message here</string>
+    <string name="new_group_menu">New Group</string>
+    <string name="settings_menu">Settings</string>
+    <string name="button_next_new_group">NEXT</string>
+    <string name="set_group_name">Set Group Name</string>
+    <string name="_bottom_nav">Chats</string>
+    <string name="contacts_bottom_nav">Contacts</string>
+    <string name="groups_botton_nav">Groups</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="account_nav_menu">Account</string>
+    <string name="change_password_AccountActivity">Change Password</string>
+    <string name="enter_new_password">enter new password</string>
+    <string name="confirm_AccountInfo">Confirm</string>
+    <string name="public_group_menu">Public Group Chat</string>
+</resources>
